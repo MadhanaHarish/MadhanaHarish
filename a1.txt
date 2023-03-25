@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 i love you
+=======
+i love u too oanni kutti
+>>>>>>> b2
