@@ -6,10 +6,10 @@
 
 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px"> &nbsp;**Welcome to my GitHub!**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/madhanaharish)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/madhana-harish-j-k-0397ab256)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MadhanaHarish)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/MadhanaHarish)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://madhanaharish.github.io)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/MadhanaHarish/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://madhanaharishjk.netlify.app/)
 
 </div>
 
@@ -76,16 +76,18 @@ I'm a passionate **Software Engineer** specializing in full-stack development wi
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MadhanaHarish&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=5ce1e6&icon_color=5ce1e6" height="170" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MadhanaHarish&langs_count=8&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=5ce1e6&icon_color=5ce1e6" height="170" alt="Top Languages"/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=MadhanaHarish&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=5ce1e6&icon_color=5ce1e6" height="170" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MadhanaHarish&langs_count=8&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=5ce1e6&icon_color=5ce1e6" height="170" alt="Top Languages"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MadhanaHarish&theme=tokyonight&hide_border=true&stroke=0000&background=0D1117&ring=5ce1e6&fire=5ce1e6&currStreakLabel=5ce1e6" alt="GitHub Streak" />
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=MadhanaHarish&theme=radical&hide_border=true&background=0D1117&stroke=5ce1e6&ring=5ce1e6&fire=FF4500&currStreakNum=FFFFFF&sideNums=5ce1e6&currStreakLabel=5ce1e6" alt="GitHub Streak"/>
+  </a>
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MadhanaHarish&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=MadhanaHarish&theme=radical&no-frame=true&no-bg=true&row=1&column=7&title_color=5ce1e6" alt="Trophies" />
 </div>
 
 <br/>
@@ -96,7 +98,7 @@ I'm a passionate **Software Engineer** specializing in full-stack development wi
   
 ### The Landmark Projects
   
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MadhanaHarish&repo=landmark-projects&theme=tokyonight)](https://github.com/MadhanaHarish/landmark-projects)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MadhanaHarish&repo=Civil_Company_Website&theme=radical)](https://github.com/MadhanaHarish/Civil_Company_Website)
 
 **Full-stack web app for civil engineering firms with role-based access (CEO, TLS, Customers).**
 
@@ -106,7 +108,7 @@ I'm a passionate **Software Engineer** specializing in full-stack development wi
 
 ### Faculty Contact Manager
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MadhanaHarish&repo=faculty-contact-manager&theme=tokyonight)](https://github.com/MadhanaHarish/faculty-contact-manager)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MadhanaHarish&repo=College-Faculty-Contact-Manger&theme=radical)](https://github.com/MadhanaHarish/College-Faculty-Contact-Manger)
 
 **MERN-based contact manager with CRUD operations and user-friendly UI.**
 
@@ -116,7 +118,7 @@ I'm a passionate **Software Engineer** specializing in full-stack development wi
 
 ### Employee Management System
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MadhanaHarish&repo=employee-management-system&theme=tokyonight)](https://github.com/MadhanaHarish/employee-management-system)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MadhanaHarish&repo=Employee-Management&theme=radical)](https://github.com/MadhanaHarish/Employee-Management)
 
 **Desktop app for managing employee records with SQLite.**
 
@@ -154,18 +156,18 @@ I'm a passionate **Software Engineer** specializing in full-stack development wi
 ## 📈 Activity Graph
 
 <div align="center">
-  <a href="https://github.com/MadhanaHarish"><img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=MadhanaHarish&bg_color=0D1117&color=5ce1e6&line=5ce1e6&point=FFFFFF&hide_border=true" /></a>
+  <a href="https://github.com/MadhanaHarish"><img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=MadhanaHarish&bg_color=0D1117&color=5ce1e6&line=FF4500&point=5ce1e6&hide_border=true&area=true&area_color=5ce1e610" /></a>
 </div>
 
 ## 🌐 Connect With Me
 
 <div align="center">
   <p>Let's build something amazing together!</p>
-  <a href="https://linkedin.com/in/madhanaharish"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://www.linkedin.com/in/madhana-harish-j-k-0397ab256"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://github.com/MadhanaHarish"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-  <a href="https://leetcode.com/MadhanaHarish"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/></a>
-  <a href="mailto:madhanaharish@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
-  <a href="https://madhanaharish.github.io"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://leetcode.com/u/MadhanaHarish/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/></a>
+  <a href="mailto:rajagopalamadhan@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+  <a href="https://madhanaharishjk.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/></a>
 </div>
 
 <div align="center">
