@@ -1,104 +1,177 @@
-# 👋 Hello, I'm Madhana Harish J K | Full Stack Developer 🚀
+<div align="center">
+  
+# Madhana Harish J K
 
-## 🌟 About Me
-I'm a proactive **Software Engineer** skilled in full-stack development, Python, and JavaScript. Passionate about building scalable solutions and solving complex problems through innovative technologies. Currently pursuing my BE in CSE at Kongu Engineering College with a CGPA of 8.86.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=5CE1E6&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Developer;Problem+Solver;Tech+Enthusiast)](https://git.io/typing-svg)
 
-### 💡 Core Competencies
-- **Full Stack Development**: Building end-to-end web applications with modern stacks
-- **Problem Solving**: Tackling challenges with efficient algorithms and clean code
-- **Agile Development**: Delivering iterative solutions with collaboration
-- **Database Design**: Structuring scalable and optimized data systems
-- **UI/UX Focus**: Crafting intuitive and responsive interfaces
+<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px"> &nbsp;**Welcome to my GitHub!**
 
-## 🛠️ Technology Stack
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/madhanaharish)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MadhanaHarish)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/MadhanaHarish)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://madhanaharish.github.io)
 
-### Languages
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+</div>
 
-### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+---
 
-### Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/61491d59e71fec5c794945fed916a4a682b6c0404fc31f30b08a0d919c558404/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966">
 
-### Database
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+## 🚀 About Me
 
-### Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)
+I'm a passionate **Software Engineer** specializing in full-stack development with expertise in Python and JavaScript ecosystems. Currently pursuing my BE in Computer Science & Engineering at Kongu Engineering College with a strong CGPA of 8.86.
 
-## 📊 GitHub Statistics
+> "Code is like humor. When you have to explain it, it's bad." – Cory House
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MadhanaHarish&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=5ce1e6&icon_color=5ce1e6" height="170" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MadhanaHarish&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=5ce1e6&icon_color=5ce1e6" height="170" alt="Top Languages"/>
-</p>
+### 💡 What Drives Me
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MadhanaHarish&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=5ce1e6&fire=5ce1e6&currStreakLabel=5ce1e6" alt="GitHub Streak" />
-</p>
+- Building scalable web applications that solve real-world problems
+- Creating intuitive user interfaces with seamless experiences
+- Optimizing database performance for efficient data handling
+- Implementing clean, maintainable code following best practices
 
-## 🏆 GitHub Trophies
+<br/>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MadhanaHarish&theme=algolia&no-frame=true&no-bg=true&row=1&column=7" alt="Trophies" />
-</p>
+## 🛠️ Tech Arsenal
+
+<table>
+  <tr>
+    <td valign="top" width="33%">
+      <h3>Frontend</h3>
+      <div align="center">  
+        <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
+        <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
+        <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
+        <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
+        <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
+        <a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>  
+      </div>
+    </td>
+    <td valign="top" width="33%">
+      <h3>Backend</h3>
+      <div align="center">  
+        <a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
+        <a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>  
+        <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
+        <a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
+        <a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a>  
+        <a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>  
+      </div>
+    </td>
+    <td valign="top" width="33%">
+      <h3>Database & Tools</h3>
+      <div align="center">  
+        <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
+        <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
+        <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>  
+        <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
+        <a href="https://code.visualstudio.com/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VSCode" height="50" /></a>  
+      </div>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MadhanaHarish&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=5ce1e6&icon_color=5ce1e6" height="170" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MadhanaHarish&langs_count=8&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=5ce1e6&icon_color=5ce1e6" height="170" alt="Top Languages"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MadhanaHarish&theme=tokyonight&hide_border=true&stroke=0000&background=0D1117&ring=5ce1e6&fire=5ce1e6&currStreakLabel=5ce1e6" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=MadhanaHarish&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="Trophies" />
+</div>
+
+<br/>
 
 ## 🚀 Featured Projects
 
-### 1. The Landmark Projects 🌐
 <div align="center">
-  <img src="[IMAGE_URL]" width="800" alt="Landmark Preview"/>
+  
+### The Landmark Projects
+  
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MadhanaHarish&repo=landmark-projects&theme=tokyonight)](https://github.com/MadhanaHarish/landmark-projects)
+
+**Full-stack web app for civil engineering firms with role-based access (CEO, TLS, Customers).**
+
+🛠️ **MERN Stack, React.js, Vite, JavaScript**
+
+---
+
+### Faculty Contact Manager
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MadhanaHarish&repo=faculty-contact-manager&theme=tokyonight)](https://github.com/MadhanaHarish/faculty-contact-manager)
+
+**MERN-based contact manager with CRUD operations and user-friendly UI.**
+
+🛠️ **MERN Stack, JavaScript, Render**
+
+---
+
+### Employee Management System
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MadhanaHarish&repo=employee-management-system&theme=tokyonight)](https://github.com/MadhanaHarish/employee-management-system)
+
+**Desktop app for managing employee records with SQLite.**
+
+🛠️ **Python, Tkinter, SQLite**
+
 </div>
 
-- **Description**: Full-stack web app for civil engineering firms with role-based access (CEO, TLS, Customers).
-- **Key Features**: Project tracking, collaboration tools, real-time updates.
-- **Tech**: MERN Stack, React.js, Vite, JavaScript.
-- **Links**: [GitHub]([PROJECT_LINK])
-
-### 2. Faculty Contact Manager 📞
-<div align="center">
-  <img src="[IMAGE_URL]" width="800" alt="Contact Manager Preview"/>
-</div>
-
-- **Description**: MERN-based contact manager with CRUD operations and user-friendly UI.
-- **Key Features**: Secure authentication, responsive design.
-- **Tech**: MERN Stack, JavaScript, Render.
-- **Links**: [GitHub]([PROJECT_LINK])
-
-### 3. Employee Management System 👥
-<div align="center">
-  <img src="[IMAGE_URL]" width="800" alt="EMS Preview"/>
-</div>
-
-- **Description**: Desktop app for managing employee records with SQLite.
-- **Key Features**: CRUD operations, data export.
-- **Tech**: Python, Tkinter, SQLite.
-- **Links**: [GitHub]([PROJECT_LINK])
+---
 
 ## 📜 Certifications
-- **MongoDB Associate Developer (Node.js)** - Certified in Node.js core modules and RESTful APIs.
-- **CCBP 4.0 (NxtWave)** - Dynamic web development with JavaScript.
-
-## 🤝 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([LINKEDIN_LINK])
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MadhanaHarish)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)]([LEETCODE_LINK])
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)]([PORTFOLIO_LINK])
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=MadhanaHarish&style=for-the-badge&color=0e75b6" alt="Profile Views"/>
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://img.icons8.com/color/48/000000/mongodb.png" width="40"/>
+        <br/>
+        <b>MongoDB Associate Developer (Node.js)</b>
+        <br/>
+        <i>Certified in Node.js core modules and RESTful APIs</i>
+      </td>
+      <td align="center">
+        <img src="https://img.icons8.com/color/48/000000/certificate.png" width="40"/>
+        <br/>
+        <b>CCBP 4.0 (NxtWave)</b>
+        <br/>
+        <i>Dynamic web development with JavaScript</i>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+## 📈 Activity Graph
+
+<div align="center">
+  <a href="https://github.com/MadhanaHarish"><img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=MadhanaHarish&bg_color=0D1117&color=5ce1e6&line=5ce1e6&point=FFFFFF&hide_border=true" /></a>
+</div>
+
+## 🌐 Connect With Me
+
+<div align="center">
+  <p>Let's build something amazing together!</p>
+  <a href="https://linkedin.com/in/madhanaharish"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://github.com/MadhanaHarish"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://leetcode.com/MadhanaHarish"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/></a>
+  <a href="mailto:madhanaharish@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+  <a href="https://madhanaharish.github.io"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/></a>
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=MadhanaHarish&style=for-the-badge&color=5ce1e6" alt="Profile Views"/>
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </div>
